@@ -40,7 +40,7 @@ function TaskInput({ addTask }) {
         />
         <button
           type="submit"
-          className="bg-blue-900 rounded-lg text-white hover:cursor-pointer uppercase"
+          className="h-9 bg-blue-900 rounded-lg text-white hover:cursor-pointer uppercase"
         >
           Add
         </button>
